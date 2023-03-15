@@ -1,4 +1,4 @@
 # TestRepo
 just a test repo to figure  out how Git works
 
-//this should be pushed 
+ ..guess ik it now , but just a little bit ... 
